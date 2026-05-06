@@ -1,4 +1,5 @@
 # Things i wanna continue after PH
+[YouTube Watch Later](https://www.youtube.com/playlist?list=WL)
 
 ---
 
@@ -16,7 +17,4 @@
 - [ ] [CS50's Computer Science for Business](https://www.youtube.com/playlist?list=PLhQjrBD2T381d32c80DEQZOR-IWcINyP8)
 - [ ] [CS50x 2026 Lectures](https://www.youtube.com/playlist?list=PLhQjrBD2T380hlTqAU8HfvVepCcjCqTg6)
 - [ ] [CS50's Introduction to Cybersecurity](https://www.youtube.com/playlist?list=PLhQjrBD2T383Cqo5I1oRrbC1EKRAKGKUE)
-
-- [ ] [![true](https://i.ytimg.com/vi/ekJbms7BP3o/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBYIVJGIpz1vCXOgWL5XzWsVsK5SA)](https://www.youtube.com/watch?v=ekJbms7BP3o&list=WL&index=24&pp=iAQBsAgC)
-
-### [How to Educate Yourself Like A Self-taught Millionaire](https://www.youtube.com/watch?v=ekJbms7BP3o&list=WL&index=24&pp=iAQBsAgC "How to Educate Yourself Like A Self-taught Millionaire")
+- [ ] [How to Educate Yourself Like A Self-taught Millionaire](https://www.youtube.com/watch?v=ekJbms7BP3o&list=WL&index=24&pp=iAQBsAgC "How to Educate Yourself Like A Self-taught Millionaire")
