@@ -12,4 +12,5 @@
 - [ ] [Claude Code Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g4YJeBqChhFJwKQ9TRiivY)
 - [ ] [Git for interns - Git mess ups](https://www.youtube.com/playlist?list=PLu71SKxNbfoAtPvaTKW0eFbOFo2a6LkEv)
 - [ ] [Chai aur Typescript](https://www.youtube.com/playlist?list=PLu71SKxNbfoBkkr8lblqtsJvxrw3j1tWC)
+- [ ] [Chai aur Javascript Backend | Hindi](https://www.youtube.com/playlist?list=PLu71SKxNbfoBGh_8p_NS-ZAh6v7HhYqHW)
 - [ ] 
