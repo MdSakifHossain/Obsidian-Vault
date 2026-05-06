@@ -18,3 +18,6 @@
 - [ ] [CS50x 2026 Lectures](https://www.youtube.com/playlist?list=PLhQjrBD2T380hlTqAU8HfvVepCcjCqTg6)
 - [ ] [CS50's Introduction to Cybersecurity](https://www.youtube.com/playlist?list=PLhQjrBD2T383Cqo5I1oRrbC1EKRAKGKUE)
 - [ ] [How to Educate Yourself Like A Self-taught Millionaire](https://www.youtube.com/watch?v=ekJbms7BP3o&list=WL&index=24&pp=iAQBsAgC "How to Educate Yourself Like A Self-taught Millionaire")
+- [ ] [The Rise of Design Engineering | Raphael Salaja | MIT Startup Week](https://www.youtube.com/watch?v=uEMEs499fUs)
+- [ ] [Kole Jain (YT Guy for UI/UX Knowledge)](https://www.youtube.com/@KoleJain)
+- [ ] 
