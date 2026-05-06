@@ -13,4 +13,7 @@
 - [ ] [Git for interns - Git mess ups](https://www.youtube.com/playlist?list=PLu71SKxNbfoAtPvaTKW0eFbOFo2a6LkEv)
 - [ ] [Chai aur Typescript](https://www.youtube.com/playlist?list=PLu71SKxNbfoBkkr8lblqtsJvxrw3j1tWC)
 - [ ] [Chai aur Javascript Backend | Hindi](https://www.youtube.com/playlist?list=PLu71SKxNbfoBGh_8p_NS-ZAh6v7HhYqHW)
+- [ ] [CS50's Computer Science for Business](https://www.youtube.com/playlist?list=PLhQjrBD2T381d32c80DEQZOR-IWcINyP8)
+- [ ] [CS50x 2026 Lectures](https://www.youtube.com/playlist?list=PLhQjrBD2T380hlTqAU8HfvVepCcjCqTg6)
+- [ ] [CS50's Introduction to Cybersecurity](https://www.youtube.com/playlist?list=PLhQjrBD2T383Cqo5I1oRrbC1EKRAKGKUE)
 - [ ] 
