@@ -20,4 +20,6 @@
 - [ ] [How to Educate Yourself Like A Self-taught Millionaire](https://www.youtube.com/watch?v=ekJbms7BP3o&list=WL&index=24&pp=iAQBsAgC "How to Educate Yourself Like A Self-taught Millionaire")
 - [ ] [The Rise of Design Engineering | Raphael Salaja | MIT Startup Week](https://www.youtube.com/watch?v=uEMEs499fUs)
 - [ ] [Kole Jain (YT Guy for UI/UX Knowledge)](https://www.youtube.com/@KoleJain)
+- [ ] [Build and Deploy a MacOS style Portfolio with React, GSAP & Tailwind](https://www.youtube.com/watch?v=j9ZD_hlyHOA&t=78s)
+- [ ] [DevOps from Zero to Hero: Build and Deploy a Production API](https://www.youtube.com/watch?v=H5FAxTBuNM8&t=4s)
 - [ ] 
