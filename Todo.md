@@ -2,7 +2,7 @@
 
 - [x] Try to setup `SSH thingy` to lock PC from android `&&` Write about it also
 - [ ] Make a section about `Termux`
-	- [ ] Make a paper on `how to change the font in Termux`
+	- [ ]  add a paper on `How to change the font of termux, which font family to choose (Google Sans Code), change color scheme of the termux terminal`
 	- [ ] Make Paper: `how to scan wifi network to find potential targets`
 - [ ] Make Paper: `explaining the $PATH in linux and how its important for making and running custom commands`.
 - [ ] Write stuff about `systemd` for custom daemons and custom user daemons.
