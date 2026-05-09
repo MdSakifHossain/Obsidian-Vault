@@ -9,5 +9,12 @@
 - [ ] `Obsidian Vault Observer`
   - [ ] Make it a custom command. CLI UI: `style-context.md`.
   - [ ] Add flags for live monitoring. Example `<command> monitor`.
-  - [ ] Add flag for force push. Example `<command> force`.
-- [ ] update `OpenRGB` 
+- [ ] update `OpenRGB` codes:
+```bash
+# jarvis lights on
+❯ openrgb --mode static --color ffffff > /dev/null
+
+# jarvis lights off
+❯ openrgb --mode static --color 000000 > /dev/null
+```
+- [ ] something
