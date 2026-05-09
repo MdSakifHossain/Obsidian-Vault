@@ -10,4 +10,4 @@
   - [ ] Make it a custom command. CLI UI: `style-context.md`.
   - [ ] Add flags for live monitoring. Example `<command> monitor`.
   - [ ] Add flag for force push. Example `<command> force`.
-- [ ] something...
+- [ ] update `OpenRGB` 
