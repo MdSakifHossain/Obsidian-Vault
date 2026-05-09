@@ -2,5 +2,5 @@
 
 ## Subjects
 
-- [English 1st Paper](English-01.md)
-- [English 2nd Paper](English-02.md)
+- [English 1st Paper](./English-01/English-01.md)
+- [English 2nd Paper](./English-02/English-02.md)
