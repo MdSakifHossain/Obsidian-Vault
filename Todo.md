@@ -17,4 +17,5 @@
 # jarvis lights off
 ❯ openrgb --mode static --color 000000 > /dev/null 2>&1
 ```
+- [ ] update Profile README of Github
 - [ ] something
