@@ -1,0 +1,3 @@
+- [ ] add a paper on `How to change the font of termux, which font family to choose (Google Sans Code), change color scheme of the termux terminal`
+- [ ] add a sub command or shutdown now In in `jarvis` command
+- [ ] 
