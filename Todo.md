@@ -12,9 +12,9 @@
 - [ ] update `OpenRGB` codes:
 ```bash
 # jarvis lights on
-❯ openrgb --mode static --color ffffff > /dev/null
+❯ openrgb --mode static --color ffffff > /dev/null 2>&1
 
 # jarvis lights off
-❯ openrgb --mode static --color 000000 > /dev/null
+❯ openrgb --mode static --color 000000 > /dev/null 2>&1
 ```
 - [ ] something
