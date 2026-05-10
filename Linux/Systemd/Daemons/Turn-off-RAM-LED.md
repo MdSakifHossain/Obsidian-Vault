@@ -12,7 +12,7 @@ You can automate what would normally require human interaction.
 
 **Event:** User logs in
 
-**Action:** Wait 20 seconds
+**Action:** Wait 5 seconds
 
 **Then:** Run `openrgb --mode off`
 
@@ -22,7 +22,7 @@ system boots
 → user session starts
 → systemd (user) activates default target
 → your rule is triggered
-→ wait 20 seconds
+→ wait 5 seconds
 → openrgb --mode off
 → LEDs turn off
 → rule exits
@@ -90,7 +90,7 @@ This step is mechanical, not conceptual:
 
 - Create a user-level systemd service
 - Tell it to start on login
-- Add the 20-second delay
+- Add the 5-second delay
 - Put your already-working command inside
 
 No new ideas. No new behavior.
@@ -180,7 +180,7 @@ systemctl --user enable openrgb-off.service
 systemctl --user start openrgb-off.service
 ```
 
-Wait 20 seconds. RAM goes dark. Life continues.
+Wait 5 seconds. RAM goes dark. Life continues.
 
 ### Step 5: Reboot Once. Then Forget This Exists.
 
@@ -191,7 +191,7 @@ boot
 → login
 → user session starts
 → systemd --user runs your service
-→ waits 20 seconds
+→ waits 5 seconds
 → kills RAM RGB
 → exits quietly
 ```
