@@ -1,4 +1,4 @@
-# Sakif - Second 
+# Sakif - Second Brain 🧠
 
 - [Academic Materials](./Academic-Materials/Academic-Materials.md)
 - [Linux](./Linux/Linux.md)
