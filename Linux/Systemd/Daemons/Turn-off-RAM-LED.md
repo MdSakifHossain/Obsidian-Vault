@@ -8,13 +8,11 @@ You can automate what would normally require human interaction.
 
 ## How It Works
 
-<img src="https://i.giphy.com/3V33ssIjg0BUGafaU0.webp" alt="useless-image" width="50%"/>
-
 **Event:** User logs in
 
 **Action:** Wait 5 seconds
 
-**Then:** Run `openrgb --mode off`
+**Then:** Run `openrgb --mode static --color 000000`
 
 ```
 system boots
@@ -23,16 +21,12 @@ system boots
 → systemd (user) activates default target
 → your rule is triggered
 → wait 5 seconds
-→ openrgb --mode off
+→ openrgb --mode static --color 000000
 → LEDs turn off
-→ rule exits
 ```
 
 ---
-
 ## Before You Automate: Test It Manually
-
-<img src="https://i.giphy.com/3o6Ei2yv8fqpR3nJG8.webp" alt="useless-image" width="50%"/>
 
 The manual flow:
 
@@ -40,15 +34,12 @@ The manual flow:
 system boots → login → terminal → command → RGB off
 ```
 
-I'm using **OpenRGB** for this.
+I'm using **[OpenRGB](https://openrgb.org/)** for this.
 
 ### Check Your OpenRGB Version
 
-```shell
-openrgb --version
-```
-
-```
+```sh
+❯ openrgb --version
 OpenRGB 0.9+ (1.0rc2), for controlling RGB lighting.
   Version:		 0.9+ (1.0rc2)
   Build Date		 Mon, 13 Apr 2020 03:57:34 +0000
@@ -59,32 +50,21 @@ OpenRGB 0.9+ (1.0rc2), for controlling RGB lighting.
 
 ### Test the Command
 
-```shell
-$ sudo openrgb --mode off
-```
-
-```
+```sh
+❯ openrgb --mode static --color 000000
 Connection attempt failed
 [i2c_smbus_linux] Failed to read i2c device PCI device ID
 [i2c_smbus_linux] Failed to read i2c device PCI device ID
 [i2c_smbus_linux] Failed to read i2c device PCI device ID
-Error: Mode 'off' not available for device 'MSI PRO B650M-B (MS-7E28)'
-Error: Mode 'off' not available for device 'MSI PRO B650M-B (MS-7E28)'
 ```
 
 **Chill.** This is not an error. The motherboard is a ghost device. But the **RAM LEDs** got shut down.
-
-```shell
-openrgb --mode off
-```
 
 This also works **without** `sudo`. So, we are **golden**.
 
 ---
 
 ## The Automation
-
-<img src="https://i.giphy.com/3oz8xtBx06mcZWoNJm.webp" alt="useless-image" width="50%"/>
 
 This step is mechanical, not conceptual:
 
@@ -96,7 +76,6 @@ This step is mechanical, not conceptual:
 No new ideas. No new behavior.
 
 ---
-
 ## Where Systemd Units Live
 
 There are **two worlds**:
