@@ -13,8 +13,8 @@ The Graph is SO COOL
 7. Hackthebox
 8. Minimal-Dark-Coder
 9. Novadust
-10. OISTNB
-11. Omega
+10. OISTNB (Light Mode Usage Only)
+11. Omega (Only Dark Mode )
 12. Pine Forest Berry
 13. Retro Windows
 14. RetroOS 98
