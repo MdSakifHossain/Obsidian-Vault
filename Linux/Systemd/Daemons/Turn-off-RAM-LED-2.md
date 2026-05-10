@@ -39,10 +39,6 @@ I'm using **[OpenRGB](https://openrgb.org/)** for this.
 ### Check Your OpenRGB Version
 
 ```sh
-openrgb --version
-```
-
-```sh
 ❯ openrgb --version
 OpenRGB 0.9+ (1.0rc2), for controlling RGB lighting.
   Version:		 0.9+ (1.0rc2)
@@ -51,3 +47,32 @@ OpenRGB 0.9+ (1.0rc2), for controlling RGB lighting.
   Git Commit Date	 2025-09-14 14:31:57 -0500
   Git Branch		 2039027121 2039027252 master
 ```
+
+### Test the Command
+
+```sh
+❯ openrgb --mode static --color 000000
+Connection attempt failed
+[i2c_smbus_linux] Failed to read i2c device PCI device ID
+[i2c_smbus_linux] Failed to read i2c device PCI device ID
+[i2c_smbus_linux] Failed to read i2c device PCI device ID
+```
+
+**Chill.** This is not an error. The motherboard is a ghost device. But the **RAM LEDs** got shut down.
+
+This also works **without** `sudo`. So, we are **golden**.
+
+---
+
+## The Automation
+
+This step is mechanical, not conceptual:
+
+- Create a user-level systemd service
+- Tell it to start on login
+- Add the 5-second delay
+- Put your already-working command inside
+
+No new ideas. No new behavior.
+
+---
