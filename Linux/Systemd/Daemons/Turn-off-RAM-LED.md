@@ -138,7 +138,7 @@ Description=Turn off RAM RGB after login
 
 [Service]
 Type=oneshot
-ExecStart=/bin/bash -c 'sleep 20 && openrgb --mode off'
+ExecStart=/bin/bash -c 'sleep 5 && openrgb --mode static --color 000000 > /dev/null'
 
 [Install]
 WantedBy=default.target
@@ -153,7 +153,7 @@ Save. Exit.
 | `[Unit]`                  | Metadata. For humans. systemd doesn't give a fuck. Purely informational. |
 | `[Service]`               | The actual behavior.                                                     |
 | `Type=oneshot`            | Run once and exit. Don't stay alive and don't loop. Perfect for this.    |
-| `ExecStart=...`           | The command. Sleeps 20 seconds, then kills the lights.                   |
+| `ExecStart=...`           | The command. Sleeps 5 seconds, then kills the lights.                    |
 | `[Install]`               | Tells systemd when to trigger this.                                      |
 | `WantedBy=default.target` | Translation: "This is the **login event**."                              |
 
