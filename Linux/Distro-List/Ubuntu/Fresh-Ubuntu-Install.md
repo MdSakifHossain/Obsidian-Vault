@@ -35,7 +35,7 @@ sudo apt install gnome-boxes
 2. Download [Chrome](https://www.google.com/chrome/) `.deb`
 3. Download [Node.js](https://nodejs.org/en/download)
 4. Download [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) `.deb`
-5. Download [OpenRGB](https://openrgb.org/) `Bookworm.deb`
+5. Download [OpenRGB](https://openrgb.org/) `(Debian Bookworm .deb)`
 
 ### Simplified one liner
 
@@ -81,7 +81,7 @@ urls=(
 firefox "${urls[@]}" &>/dev/null & disown
 ```
 
-Doing the same thing but in a more maintainable way. That `urls[@]` and the `spread operator` in js does the same thing. 
+Doing same thing but in a more maintainable way. That `urls[@]` and the `spread operator` in js `(...)` does the same thing. 
 ## Restoration Phase
 
 1. `Log Into` Essential Accounts on `Brave Browser`:
