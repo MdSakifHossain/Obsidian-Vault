@@ -40,7 +40,13 @@ sudo apt install gnome-boxes
 ### Simplified one liner
 
 ```bash
-firefox https://code.visualstudio.com/Download https://www.google.com/chrome/ https://nodejs.org/en/download https://github.com/TheAssassin/AppImageLauncher/releases https://openrgb.org/releases.html &>/dev/null & disown
+firefox \
+https://code.visualstudio.com/Download \
+https://www.google.com/chrome/ \
+https://nodejs.org/en/download \
+https://github.com/TheAssassin/AppImageLauncher/releases \
+https://openrgb.org/releases.html \ 
+&>/dev/null & disown
 ```
 
 ## Restoration Phase
