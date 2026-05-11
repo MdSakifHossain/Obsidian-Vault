@@ -35,7 +35,7 @@ sudo apt install gnome-boxes
 2. Download [Chrome](https://www.google.com/chrome/) `.deb`
 3. Download [Node.js](https://nodejs.org/en/download)
 4. Download [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) `.deb`
-5. Download [OpenRGB](https://openrgb.org/) `.deb`
+5. Download [OpenRGB](https://openrgb.org/) `Bookworm.deb`
 
 ### Simplified one liner
 
