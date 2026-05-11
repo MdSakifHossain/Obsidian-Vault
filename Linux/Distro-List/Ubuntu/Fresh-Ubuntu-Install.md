@@ -39,7 +39,31 @@ sudo apt install gnome-boxes
 
 ### Simplified one liner
 
-****
+**One Liner Rule:**
+
+- Start with the command: `firefox`
+- Add a **space**
+- Then a **backslash** (`\`)
+- **No space after the backslash**
+- Press **Enter**
+- Write **1slink**
+- Add a **space**
+- Then a **backslash** (`\`)
+- **No space after the backslash**
+- Press **Enter**
+- Repeat for each link
+- On the last line, add `&>/dev/null & disown`
+
+Example:
+```bash
+firefox \
+  https://example1.com \
+  https://example2.com \
+  https://example3.com \
+  &>/dev/null & disown
+```
+
+Note: *the backslash must be the last character on the line (no trailing space), and each new line starts with the next URL.*
 
 ```bash
 firefox \
