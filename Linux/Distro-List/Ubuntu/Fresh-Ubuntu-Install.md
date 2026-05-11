@@ -32,10 +32,16 @@ sudo apt install gnome-boxes
 ```
 
 1. Download [VSCode](https://code.visualstudio.com/download) `.deb`
-1. Download [Chrome](https://www.google.com/chrome/) `.deb`
-1. Download [Node.js](https://nodejs.org/en/download)
-1. Download [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) `.deb`
-1. Download [OpenRGB](https://openrgb.org/) `.deb`
+2. Download [Chrome](https://www.google.com/chrome/) `.deb`
+3. Download [Node.js](https://nodejs.org/en/download)
+4. Download [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) `.deb`
+5. Download [OpenRGB](https://openrgb.org/) `.deb`
+
+### Simplified one liner
+
+```bash
+firefox https://code.visualstudio.com/Download https://www.google.com/chrome/ https://nodejs.org/en/download https://github.com/TheAssassin/AppImageLauncher/releases https://openrgb.org/releases.html &>/dev/null & disown
+```
 
 ## Restoration Phase
 
