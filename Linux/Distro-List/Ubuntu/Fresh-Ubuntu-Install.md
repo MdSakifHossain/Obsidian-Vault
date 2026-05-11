@@ -66,6 +66,20 @@ https://openrgb.org/releases.html \
 &>/dev/null & disown
 ```
 
+
+### Best for Automation
+
+```bash
+urls=(
+  "https://code.visualstudio.com/Download"
+  "https://www.google.com/chrome/"
+  "https://nodejs.org/en/download"
+  "https://github.com/TheAssassin/AppImageLauncher/releases"
+  "https://openrgb.org/releases.html"
+)
+
+firefox "${urls[@]}" &>/dev/null & disown
+```
 ## Restoration Phase
 
 1. `Log Into` Essential Accounts on `Brave Browser`:
