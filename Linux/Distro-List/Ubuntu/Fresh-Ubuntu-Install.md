@@ -39,6 +39,8 @@ sudo apt install gnome-boxes
 
 ### Simplified one liner
 
+****
+
 ```bash
 firefox \
 https://code.visualstudio.com/Download \
