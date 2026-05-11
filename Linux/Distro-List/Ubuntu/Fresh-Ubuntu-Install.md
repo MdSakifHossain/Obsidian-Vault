@@ -80,6 +80,8 @@ urls=(
 
 firefox "${urls[@]}" &>/dev/null & disown
 ```
+
+Doing the same thing but in a more maintainable way. That `urls[@]` and the `spread operator` in js does the same thing. 
 ## Restoration Phase
 
 1. `Log Into` Essential Accounts on `Brave Browser`:
