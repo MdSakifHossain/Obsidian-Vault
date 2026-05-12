@@ -18,4 +18,8 @@
 ❯ openrgb --mode static --color 000000 > /dev/null 2>&1
 ```
 - [ ] update Profile README of Github
-- [ ] something
+- [ ] add a paper on `how to install new fonts and use it`
+	- [ ] it needs to be downloaded
+	- [ ] needs to be moved to a specific location for systemwide usage
+	- [ ] needs to update the font cache
+	- [ ] then needs to be reb
