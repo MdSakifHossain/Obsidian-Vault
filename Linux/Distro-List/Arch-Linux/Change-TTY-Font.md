@@ -60,8 +60,4 @@ FONT=ter-v20n
 
 3. Reboot.
 
----
-
-This version fills the missing logical gap:
-
-- install package ➜ files get copied ➜ fonts become available ➜ choose one ➜ save it.
+> Terminal is sexy again hehe buoy.. 
