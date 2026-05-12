@@ -22,4 +22,4 @@
 	- [ ] it needs to be downloaded
 	- [ ] needs to be moved to a specific location for systemwide usage
 	- [ ] needs to update the font cache
-	- [ ] then needs to be reb
+	- [ ] then needs to be rebooted for better experience
