@@ -60,4 +60,4 @@ FONT=ter-v20n
 
 3. Reboot.
 
-> Terminal is sexy again hehe buoy.. 
+> Terminal is sexy again hehe buoy..
