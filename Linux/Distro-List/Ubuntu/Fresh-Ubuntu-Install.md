@@ -94,7 +94,6 @@ Doing same thing but in a more maintainable way. That `urls[@]` and the `spread 
    - [Github](https://github.com/login)
    - [X / Twitter](https://x.com/)
    - [Programming Hero](https://web.programming-hero.com/dashboard)
-1. Restore `Files form the Pendrive` **"Carefully"**.
 
 ## Setup Phase
 
