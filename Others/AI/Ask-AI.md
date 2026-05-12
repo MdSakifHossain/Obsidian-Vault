@@ -19,14 +19,17 @@ when the step 3 will open brave like: `brave --new-window google.com youtube.com
 
 one more thing i just encountered that after the downloaded apps has been installed. why cant we just delete those deb files? why wait for the user to delete those?
 
-this is the default setting i want the vscode to be
+this is the default setting i want the vscode to be.
+
 ```json
 {
     "workbench.productIconTheme": "material-product-icons",
     "workbench.iconTheme": "material-icon-theme",
     "workbench.statusBar.visible": false,
+    "workbench.startupEditor": "none",
     "editor.minimap.enabled": false,
     "breadcrumbs.enabled": false,
+    "window.zoomLevel": 3,
     "window.customMenuBarAltFocus": false,
     "window.enableMenuBarMnemonics": false,
     "editor.fontFamily": "'GeistMono NFP', 'Droid Sans Mono', monospace",
