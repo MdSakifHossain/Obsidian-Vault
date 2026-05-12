@@ -1,5 +1,20 @@
-i want you to make me a single merged script with subcommands like:
-`./installer.sh install|i` to install the script or updated the modified the script.
-`./installer.sh uninstall|remove|rm` to remove/uninstall the installed script.
+# Ask AI
 
-the default value for the `installer install` will be the command dir. and if i set something like: `./installer install -y|y` to directly install the script without prompting for the script/commands location. and uninstall will do what it has. also, if you have any questions for this kinda thing then ask me right away. dont make the script right away and im giving you a context file so that you can use it to take decisions if needed
+**Drop Files:**
+
+    jarvis.sh.txt, old-context-file.md, Fresh-Ubuntu-Install.md,
+    Ubuntu-Look-Customization.md, Ubuntu-Terminal-Customization.md
+
+**Main Objective:**
+
+im not asking you to make the new context. im here to dump all those ideas from my mind and now i just want to perfect the whole thing so that when we will make it then it will just work without any flaw. i guess now i have many flaws. so, lets discuss.
+
+**Mind Dump:**
+
+its been made. thanks for the assistance. im super greatful for your assistance. there are the stuff i wanted you to look at. the context is old for you because using that context i made that new jarvis script. now i was wondering that lets go with the step three. these are mostly the after step 2 stuffs. im not asking you to make a new jarvis file. i just wanna make recipe for the step 3. i just opened the step 2 and then the files which i just gave to you for later stuff. like after downloading the stuffs. so this there is restoration phase and setup phase left.
+
+so, right now we are downloading stuff and completing, lets go with the step 3. step 2 will be for only downloading and setting up that downloaded stuff.
+
+when the step 3 will open brave like: `brave --new-window google.com youtube.com facebook.com github.com instagram.com` but for the pages i suggested on the `Fresh-Ubuntu-Install.md` file. it will open a new instance with the links i needed. this is just an example. then it will do the thing for the warp-client. instructions are on `https://developers.cloudflare.com/warp-client/get-started/linux/` and `https://pkg.cloudflareclient.com/` page. it feels like it can be done automatically. and damn bro the daemons are already setup.. wow. so, lets make it kinda a little like after all the app has been installed using snap. lets open those links which i need to log into right? after all the stuffs has been installed or the wait for the brave and then open the links? what will be the good UX?
+
+one more thing i just encountered that after the downloaded apps has been installed. why cant we just delete those deb files? why wait for the user to delete those? bad UX.
