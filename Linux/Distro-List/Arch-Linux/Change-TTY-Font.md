@@ -1,9 +1,3 @@
-Yes. Your note explains **what** external packages do, but not **how** they get there or how you install them. That part is missing. 📦
-
-You can extend it like this:
-
----
-
 # Change TTY Font
 
 ⬅️ [Arch Linux](./Arch-Linux.md)
