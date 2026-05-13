@@ -47,6 +47,12 @@ const Homepage = () => {
 export default Homepage;
 ```
 
+- [ ] Create the `LatestProducts` Compoent and then:
+
+```jsx
+
+```
+
 > END
 
 ## Navigation
