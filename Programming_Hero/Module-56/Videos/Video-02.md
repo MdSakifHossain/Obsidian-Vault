@@ -5,7 +5,8 @@
 > START
 
 - [ ] since we have the products, we can now show the `Product Cards` and move on
-- [ ] 
+- [ ] Create a `Product Details` so that each products `view details` button will point to that product details page
+- [ ] create a path on the router so for the `/products`
 
 > END
 
