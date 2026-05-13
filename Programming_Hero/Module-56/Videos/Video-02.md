@@ -4,7 +4,8 @@
 
 > START
 
-- [ ] start the video
+- [ ] since we have the products, we can now show the `Product Cards` and move on
+- [ ] 
 
 > END
 
