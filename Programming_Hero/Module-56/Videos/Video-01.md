@@ -5,6 +5,7 @@
 > START
 
 - [ ] implement the private route
+- [ ] making a custom gradient button using ChatGPT.
 - [ ] 
 
 > END
