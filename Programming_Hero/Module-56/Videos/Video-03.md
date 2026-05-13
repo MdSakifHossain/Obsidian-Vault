@@ -1,4 +1,4 @@
-# Module 56 Video 3
+# 56-3 Show bid dialogue and get bidding amount in Product Details Page
 
 ⬅️ [Module 56](../Module-56.md)
 
