@@ -10,7 +10,11 @@
 - [ ] make sure to add the loader and fetch the data on the loader of `/productDetails/:id` then give the data to the page component.
 
 ```jsx
-
+{
+  path: "productDetails/:id",
+  loader: ({ params }) => fetch(`http://localhost:3000/products/${params.id}`),
+  Component: ProductDetailsPage,
+}
 ```
 
 - [ ] in the `Page Details Page`, we will access that data
