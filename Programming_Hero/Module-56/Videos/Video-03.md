@@ -12,9 +12,9 @@
 - [ ] @11:15 min(s) he started to make the onSubmit thing, extracting all the values form the `form`.
 - [ ] checked the values if the extracted values are actually there or not
 - [ ] @12:04 min(s) he accessed the `id` of the product. must opne the video when making the actual app
-- [ ] 
+- [ ] Next video we will try to push all those data on `database`
 
-> END
+> END: GO TO THE NEXT VIDEO
 
 ## Navigation
 

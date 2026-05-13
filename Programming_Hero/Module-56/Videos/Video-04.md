@@ -1,10 +1,10 @@
-# Module 56 Video 4
+# 56-4 Submit a bid and get bids for a product sorted by price
 
 ⬅️ [Module 56](../Module-56.md)
 
 > START
 
-- [ ] something
+- [ ] watch the video
 
 > END
 
