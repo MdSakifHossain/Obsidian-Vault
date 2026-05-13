@@ -50,7 +50,23 @@ export default Homepage;
 - [ ] Create the `LatestProducts` Compoent and then:
 
 ```jsx
+import React from "react";
 
+// 1. Destructure the promise
+const LatestProducts = ({ latestProductsPromise }) => {
+  // 2. do the react magic to resolve the promise
+  const products = use(latestProductsPromise);
+  // 3. check if products are there or not
+  console.log(products);
+
+  return (
+    <div>
+      <p>Latest Products</p>
+    </div>
+  );
+};
+
+export default LatestProducts;
 ```
 
 > END
