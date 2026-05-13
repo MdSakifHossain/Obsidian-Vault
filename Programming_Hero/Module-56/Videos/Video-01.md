@@ -8,7 +8,18 @@
 - [ ] making a custom gradient button using ChatGPT.
 - [ ] Homepage logic: we will need `Recent Products` so, we need to make an `API Endpoint` for that.
 - [ ] Backend: create a `GET /latest-products` endpoint.
-- [ ] 
+
+```js
+app.get("/latest-products", async (req, res) => {
+  const result = productCollection
+    .find({})
+    .sort({ created_at: -1 })
+    .limit(6)
+    .toArry();
+
+  res.json(result);
+});
+```
 
 > END
 
