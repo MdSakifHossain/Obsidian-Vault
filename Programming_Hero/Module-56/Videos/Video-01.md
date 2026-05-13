@@ -21,7 +21,31 @@ app.get("/latest-products", async (req, res) => {
 });
 ```
 
-- [ ] @11:57
+- [ ] Create the `latestProductsPromise` and pass it into the `LatestProducts` Component
+
+```jsx
+import React from "react";
+
+// 1. create the latest products promise
+const latestProductsPromise = fetch(
+  "http://localhost:3000/latest-products",
+).then((res) => res.json());
+
+const Homepage = () => {
+  return (
+    <div>
+      <h2>This is HomePage</h2>
+
+      {/* 2. add the promise into this component */}
+      <LatestProducts
+        latestProductsPromise={latestProductsPromise}
+      ></LatestProducts>
+    </div>
+  );
+};
+
+export default Homepage;
+```
 
 > END
 
