@@ -19,6 +19,26 @@
 
 - [ ] in the `Page Details Page`, we will access that data
 
+```jsx
+// ProductDetailsPage.jsx
+import React from "react";
+
+const ProductDetailsPage = () => {
+  // 1. access the loader data with
+  const product = useLoaderData();
+  // 2. check the prodcut data
+  console.log(product);
+
+  return (
+    <div>
+      <h1>Product Details Page</h1>
+    </div>
+  );
+};
+
+export default ProductDetailsPage;
+```
+
 > END
 
 ## Navigation
