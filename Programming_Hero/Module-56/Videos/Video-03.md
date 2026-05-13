@@ -5,6 +5,7 @@
 > START
 
 - [ ] @2:37 min(s) he mentioned about `useRef` for the modal. (im not sure but it might not be important because im using shadcn with baseUI)
+- [ ] @6:16 min(s) he started making the form
 - [ ] 
 
 > END
