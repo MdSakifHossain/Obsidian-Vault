@@ -4,7 +4,7 @@
 
 > START
 
-- [ ] something
+- [ ] start the video
 
 > END
 
