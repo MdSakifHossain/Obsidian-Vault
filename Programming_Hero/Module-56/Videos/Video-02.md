@@ -1,4 +1,4 @@
-# Module 56 Video 2
+# 56-2 Design Card and show latest products
 
 ⬅️ [Module 56](../Module-56.md)
 

@@ -69,7 +69,9 @@ const LatestProducts = ({ latestProductsPromise }) => {
 export default LatestProducts;
 ```
 
-> END
+- [ ] add the loading thingy to make it pop
+
+> END: Go to the next video
 
 ## Navigation
 
