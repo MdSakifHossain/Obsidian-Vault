@@ -8,7 +8,12 @@
 - [ ] Create a `Product Details` so that each products `view details` button will point to that product details page
 - [ ] create a path on the router so for the `/productDetails/:id` which will point to the product details
 - [ ] make sure to add the loader and fetch the data on the loader of `/productDetails/:id` then give the data to the page component.
-- [ ] 
+
+```jsx
+
+```
+
+- [ ] in the `Page Details Page`, we will access that data
 
 > END
 
