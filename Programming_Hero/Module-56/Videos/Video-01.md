@@ -7,7 +7,8 @@
 - [ ] implement the private route
 - [ ] making a custom gradient button using ChatGPT.
 - [ ] Homepage logic: we will need `Recent Products` so, we need to make an `API Endpoint` for that.
-- [ ] Backend: create an 
+- [ ] Backend: create a `GET /latest-products` endpoint.
+- [ ] 
 
 > END
 
