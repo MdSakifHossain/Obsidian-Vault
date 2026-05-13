@@ -39,7 +39,9 @@ const ProductDetailsPage = () => {
 export default ProductDetailsPage;
 ```
 
-> END
+- [ ] clicking on the `I want to Buy this product` button on the `ProductDetails` page will trigger a dialogue which is basically a `Form`.
+
+> END: GO to the next page
 
 ## Navigation
 
