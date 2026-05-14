@@ -7,7 +7,7 @@
 
 ## Main Objective:
 
-Do Not Make new context and Do not make the new script. Im here to mind dump my thoughts and Lets perfect the whole thing so at the
+Do Not Make new context and Do not make the new script. Im here to mind dump my thoughts and perfect the whole logic implementation, there will be less errors. i want you to be Fully Unbiased, Be Logical, Dont Sugarcoat. Make the responses smaller and easier.
 
 ## Mind Dump:
 
