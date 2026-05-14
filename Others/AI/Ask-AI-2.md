@@ -87,7 +87,7 @@ this is the minimal setup for the vscode.
     ".title-actions": "display: none !important",
     ".monaco-scrollable-element > div.split-view-container > div > div > div.title.show-file-icons > div.label-container > div": "justify-content: center",
     ".monaco-scrollable-element > div.split-view-container > div > div > div.title": "padding-left: 40px",
-    ".monaco-scrollable-element > div.split-view-container > div:nth-child(1) > div > div.pane-body > div > div > div": "padding-left: 14px",
+    ".monaco-scrollable-element > div.split-view-container > div:nth-child(1) > div > div.pane-body > div > div > div": "padding-left: 14px"
   },
   "custom-ui-style.font.sansSerif": "Dank Mono", // this setting is responsible to change the font family of the exploreres files, folder and some other things
   // text cursor/carets styling
@@ -95,7 +95,7 @@ this is the minimal setup for the vscode.
   "editor.cursorBlinking": "smooth", // "smooth" is good. Dont try others.
   "editor.cursorSmoothCaretAnimation": "on", // "on" is good. dont try others.
   "workbench.colorCustomizations": {
-    "editorCursor.background": "#ffffff", // this is for the cursor. when the cursor is already on a letter, then the texts color will be changes accordingly.
+    "editorCursor.background": "#ffffff" // this is for the cursor. when the cursor is already on a letter, then the texts color will be changes accordingly.
   },
   "editor.fontFamily": "'DM Mono', 'JetBrains Mono', monospace",
   "editor.fontSize": 16,
@@ -111,20 +111,20 @@ this is the minimal setup for the vscode.
   "extensions.ignoreRecommendations": false, // When set to true, this setting stops VS Code from prompting you to install recommended extensions, though the `Show Recommended Extensions` command remains available if you wish to view them manually. It does not, however, hide the Recommended section in the Extensions view sidebar;
   "editor.formatOnSave": true, // plug and play and never to touch this sacred setting
   "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "workbench.iconTheme": "material-icon-theme",
   "[mdx]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[typescriptreact]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "tailwind-fold.autoFold": false,
   "window.menuBarVisibility": "compact",
   "workbench.editor.empty.hint": "hidden",
   "[markdown]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "editor.tokenColorCustomizations": {
     "textMateRules": [
@@ -139,11 +139,11 @@ this is the minimal setup for the vscode.
           "storage.type",
           "string.url",
           "variable.language.super",
-          "variable.language.this",
+          "variable.language.this"
         ],
         "settings": {
-          "fontStyle": "italic",
-        },
+          "fontStyle": "italic"
+        }
       },
       {
         "name": "One Dark italic reset",
@@ -156,16 +156,16 @@ this is the minimal setup for the vscode.
           "storage.type.function.arrow",
           "storage.type.generic",
           "storage.type.java",
-          "storage.type.primitive",
+          "storage.type.primitive"
         ],
         "settings": {
-          "fontStyle": "",
-        },
-      },
-    ],
+          "fontStyle": ""
+        }
+      }
+    ]
   },
   "[javascriptreact]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "files.autoSave": "afterDelay",
   "shellformat.effectLanguages": [
@@ -179,12 +179,18 @@ this is the minimal setup for the vscode.
     "properties",
     "spring-boot-properties",
     "azcli",
-    "bats",
+    "bats"
   ],
   "workbench.sideBar.location": "right",
   "workbench.statusBar.visible": false,
-  "terminal.integrated.stickyScroll.enabled": false,
+  "terminal.integrated.stickyScroll.enabled": false
 }
 ```
 
 this is the current setup of my vscode setup. i dont like to install a new extention which will dictate the look over the native stuff.
+
+i guess that there are some useful setups on my current setup. what do you say?
+
+Next it will do stuff about the Whole ubuntu looks customization and the terminal customization thing.
+
+more will be added soon.
