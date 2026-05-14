@@ -18,4 +18,4 @@ Im greatfull for your assistance, This context file is has been used to make thi
 ### Step 3
 
 this command will open links from the `Fresh-Ubuntu-Install.md` which are suggested on the *Restoration Phase*. new tabs on a window but completely detatched from the terminal. first link will be the `https://pass.proton.me` then other links. then i will log into the sites.
-
+`https://developers.cloudflare.com/warp-client/get-started/linux/` and `https://pkg.cloudflareclient.com/` these are the two pages that is needed to install and setup the warp client
