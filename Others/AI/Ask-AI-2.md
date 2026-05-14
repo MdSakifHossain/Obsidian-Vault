@@ -191,5 +191,4 @@ this is the current setup of my vscode setup. i dont like to install a new exten
 
 i guess that there are some useful setups on my current setup. what do you say?
 
-Next it will do stuff about the Whole ubuntu looks customization and the terminal customization thing.
-
+Next it will do stuff about the Whole ubuntu looks customization and the terminal customization thing. `Ubuntu-Look-Customization.md`, `Ubuntu-Terminal-Customization.md`. how much of this can be automated. i know it wont be fully 100% automated but most of them right?
