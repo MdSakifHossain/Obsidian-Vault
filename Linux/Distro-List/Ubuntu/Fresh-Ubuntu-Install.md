@@ -56,17 +56,6 @@ sudo apt install gnome-boxes
 
 Note: *the backslash must be the last character on the line (no trailing space), and each new line starts with the next URL.*
 
-```bash
-firefox \
-https://code.visualstudio.com/Download \
-https://www.google.com/chrome/ \
-https://nodejs.org/en/download \
-https://github.com/TheAssassin/AppImageLauncher/releases \
-https://openrgb.org/releases.html \
-&>/dev/null & disown
-```
-
-
 ### Best for Automation
 
 ```bash
@@ -100,7 +89,7 @@ Doing same thing but in a more maintainable way. That `urls[@]` and the `spread 
 1. Setup [WARP Client](https://developers.cloudflare.com/warp-client/get-started/linux/)
 2. Setup `OpenRGB as Daemon on Ubuntu`
 3. Setup `VSCode with the Minimal Looks`
-4. Setup`Terminal for Good Looks`
+4. Setup `Terminal for Good Looks`
 5. Setup `The whole Ubuntu for Good Looks`
 
 <img
