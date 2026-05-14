@@ -11,4 +11,4 @@ Do Not Make new context and Do not make the new script. Im here to mind dump my 
 
 ## Mind Dump:
 
-Im greatfull for your assistance, This context file is has been used to make this current script. Lets 
+Im greatfull for your assistance, This context file is has been used to make this current script. There are some stuff i wanna say that, step 2 is downloading and installing the apps. so, why it didnt auto clened the 
