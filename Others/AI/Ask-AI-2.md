@@ -17,4 +17,4 @@ Im greatfull for your assistance, This context file is has been used to make thi
 
 ### Step 3
 
-this command will open links from the `Fresh-Ubuntu-Install.md` which are suggested on the *Restoration Phase*. new tabs on a window. 
+this command will open links from the `Fresh-Ubuntu-Install.md` which are suggested on the *Restoration Phase*. new tabs on a window but completely detatched from the terminal. fif
